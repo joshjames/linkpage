@@ -1,0 +1,221 @@
+{
+    "profile": "default",
+    "bucket": "nadiajayne.com",
+    "folder": "",
+    "include": [],
+    "exclude": [
+        ".git"
+    ],
+    "synced": [
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/3b/7144e8c4b6e4fdff783d0639ce567ef1371cfd",
+            "remoteTime": 1704004061
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/32/48ed7a2a4242a82bace10c24463741077031de",
+            "remoteTime": 1704004061
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/2f/50832312a1d69c97bb99e52dda01ffeb6da8eb",
+            "remoteTime": 1704004062
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/2a/d217200257df0b7e8259cd18f2d3346c6ffe0d",
+            "remoteTime": 1704004063
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/29/1bacee9bc7ded3fb1f88f87b2d82b09036d725",
+            "remoteTime": 1704004063
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/28/c3b4b0744e5a7e9827d1cefc233b41791d46f1",
+            "remoteTime": 1704004064
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/27/38b134c3fe933094f28041589008e61b4b4aaa",
+            "remoteTime": 1704004064
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/21/2694b790483966bc196aad277ad8d991344257",
+            "remoteTime": 1704004064
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/1e/1c85a04fdfa07ac1cdf3c00a99f5e5268c3357",
+            "remoteTime": 1704004064
+        },
+        {
+            "localTime": 1704003633,
+            "name": ".git/objects/1d/521094261a269103d1f1a4eeda1da3219bd9e8",
+            "remoteTime": 1704004065
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/1a/12a61e48aeaca51e0d26a52568540222f54942",
+            "remoteTime": 1704004066
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/12/8191a84cb9ff5d90518dd7038bff2f268fc611",
+            "remoteTime": 1704004066
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/0c/d96e22a90b210a760755e9500b3a99c4c6e176",
+            "remoteTime": 1704004068
+        },
+        {
+            "localTime": 1704003426,
+            "name": ".git/objects/09/64fd3dceac7491c4ca77f68b00742920d88b4f",
+            "remoteTime": 1704004068
+        },
+        {
+            "localTime": 1704003446,
+            "name": ".git/objects/05/f6606c049009be4dc406be353463688d3a06ab",
+            "remoteTime": 1704004069
+        },
+        {
+            "localTime": 1704003633,
+            "name": ".git/objects/05/43ff2086e4fed7c71344d915712d9b51f80950",
+            "remoteTime": 1704004069
+        },
+        {
+            "localTime": 1704003500,
+            "name": ".git/logs/refs/remotes/origin/main",
+            "remoteTime": 1704004069
+        },
+        {
+            "localTime": 1704003633,
+            "name": ".git/COMMIT_EDITMSG",
+            "remoteTime": 1704004069
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/a9/34087aee94359b4f3a1355720c015c7db6250f",
+            "remoteTime": 1704004069
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/99/a6e0cfd139ddc3c1255f2eb190c849587a86e3",
+            "remoteTime": 1704004070
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/98/ed6bb9c79657ec58d0e245503f1b25fe792888",
+            "remoteTime": 1704004070
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/93/dc07438d48c74d6bdd39bd865eb67473eebe9f",
+            "remoteTime": 1704004070
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/45/265a2605e97082790791d67a93115309b5e646",
+            "remoteTime": 1704004061
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/49/debe101f1b9959d140f2f635264c074bdb6788",
+            "remoteTime": 1704004072
+        },
+        {
+            "localTime": 1704003633,
+            "name": ".git/objects/57/74d976eb8b68416321019c1f3fc99f0a286013",
+            "remoteTime": 1704004072
+        },
+        {
+            "localTime": 1704003633,
+            "name": ".git/objects/61/79ed737c80e278ecd8cc8e1e8df3a9efba2019",
+            "remoteTime": 1704004072
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/88/3192ddcac12bbad0af12d8506b55a24eaafc21",
+            "remoteTime": 1704004071
+        },
+        {
+            "localTime": 1704003500,
+            "name": ".git/refs/remotes/origin/main",
+            "remoteTime": 1704004083
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/f9/b2f20407b48b1f8ec89407231d21b64613573a",
+            "remoteTime": 1704004084
+        },
+        {
+            "localTime": 1704003446,
+            "name": ".git/objects/e5/7f8eeade00ba35a0a67f6df2fa2b05c02ce3f1",
+            "remoteTime": 1704004084
+        },
+        {
+            "localTime": 1704003633,
+            "name": ".git/objects/d5/7cbca4d592adec2f12db170f246d3caa55d596",
+            "remoteTime": 1704004085
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/e3/a5658b15adc51ac735e3ec97aaa724a35bf2bd",
+            "remoteTime": 1704004085
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/c5/3ff9b51201836c26b6044c96211b2f69b8791e",
+            "remoteTime": 1704004086
+        },
+        {
+            "localTime": 1704003632,
+            "name": ".git/objects/ce/28e58c646ffff725f8669e77908247ed9b5b07",
+            "remoteTime": 1704004085
+        },
+        {
+            "localTime": 1704004091,
+            "name": ".git/objects/pack/pack-aee9743bdd3af7796d2e8aea078a231a717a85e7.idx",
+            "remoteTime": 1704002145
+        },
+        {
+            "localTime": 1704004091,
+            "name": ".git/logs/refs/remotes/origin/HEAD",
+            "remoteTime": 1704002145
+        },
+        {
+            "localTime": 1704004091,
+            "name": ".git/objects/pack/pack-aee9743bdd3af7796d2e8aea078a231a717a85e7.pack",
+            "remoteTime": 1704002145
+        },
+        {
+            "localTime": 1704004092,
+            "name": ".git/refs/remotes/origin/HEAD",
+            "remoteTime": 1704002145
+        },
+        {
+            "localTime": 1704004092,
+            "name": ".git/packed-refs",
+            "remoteTime": 1704002145
+        },
+        {
+            "localTime": 1704004092,
+            "name": "upload",
+            "remoteTime": 1704004252
+        },
+        {
+            "localTime": 1704004253,
+            "name": "assets/avatar.pngZone.Identifier",
+            "remoteTime": 1703936712
+        },
+        {
+            "localTime": 1704004253,
+            "name": "assets/onlyfans.pngZone.Identifier",
+            "remoteTime": 1703936720
+        }
+    ]
+}
