@@ -1,5 +1,5 @@
-# linktree
-copy of linktree basically... written by josh.
+# linkpage
+copy of linktree called linkpage basically... written by joshjames
 
 
 ## Project Structure:
@@ -26,3 +26,14 @@ root
 |____README.md
 |____index.html
 ```
+
+
+links are setup in /js/links.js
+
+images saved to assetts/
+index is pretty straight forward.
+
+## todo
+
+add seperate config/settings file for colors and layout
+additional layout choices
