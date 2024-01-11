@@ -7,7 +7,7 @@
 }
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #7caad3;
+  background-color: #060c21;
 }
 main {
   display: flex;
@@ -46,7 +46,7 @@ a {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #5e4242;
+  color: #000;
 
   margin: 0.5rem 0;
   border-radius: 15px;
@@ -56,18 +56,17 @@ a {
   font-size: 2rem;
   font-weight: 700;
   margin-bottom: 2rem;
-  color: #2d1616;
+  color: white;
 }
 .about {
     font-size: 1rem;
     font-weight: 500;
     margin-bottom: 2rem;
-    color: black;
+    color: white;
   }
 .link span {
   width: 80%;
   text-align: center;
-  color: black;
 }
 .link img {
   height: 2rem;
@@ -80,46 +79,46 @@ a {
 .link:nth-child(1) {
   background: linear-gradient(
       90deg,
-      rgb(151 12 12 / 10%) 30%,
-      rgb(0 36 240 / 30%) 100%
+      rgba(241, 241, 241, 0.1) 30%,
+      rgba(113, 113, 113, 0.3) 100%
     ),
-    #fff;
+    #EBC7E8;
     color: white;
 }
 .link:nth-child(2) {
   background: linear-gradient(
       90deg,
-      rgb(201 209 255 / 72%) 30%,
-      rgb(129 164 206 / 93%) 100%
+      rgba(241, 241, 241, 0.1) 30%,
+      rgba(113, 113, 113, 0.3) 100%
     ),
-    #ffffff;
+    #BFACE0;
     color: white;
 }
 .link:nth-child(3) {
   background: linear-gradient(
       90deg,
-      rgb(197 197 241) 30%,
-      rgb(24 63 235 / 30%) 100%
+      rgba(241, 241, 241, 0.1) 30%,
+      rgba(113, 113, 113, 0.3) 100%
     ),
-    #ffffff;
+    #A084CA;
     color: white;
 }
 .link:nth-child(4) {
   background: linear-gradient(
       90deg,
-      rgb(123 119 225 / 31%) 30%,
-      rgb(10 60 200 / 30%) 100%
+      rgba(241, 241, 241, 0.1) 30%,
+      rgba(113, 113, 113, 0.3) 100%
     ),
-    #f8f8f8;
+    #645CAA;
     color: white;
 }
 .link:nth-child(5) {
   background: linear-gradient(
       90deg,
-      rgb(241 241 241 / 10%) 30%,
-      rgb(149 157 255 / 30%) 100%
+      rgba(241, 241, 241, 0.1) 30%,
+      rgba(113, 113, 113, 0.3) 100%
     ),
-    #aba6d8;
+    #49437d;
     color: white;
 }
 .link:nth-child(6) {
