@@ -5,6 +5,11 @@ export const links = [
     image: "./assets/onlyfans.png",
     },
     {
+      name: "Snapchat",
+      link: "https://onlyfans.com/nadiajayne",
+      image: "./assets/snapchat.png",
+      },
+    {
       name: "Twitter",
       link: "https://twitter.com/nadiajaynex",
       image: "./assets/twitter.png",
