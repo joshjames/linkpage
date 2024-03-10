@@ -1,13 +1,13 @@
 export const links = [
     {
     name: "Only Fans",
-    link: "https://onlyfans.com/nadiajayne",
+    link: "https://onlyfans.com/nadiajayne/c1",
     image: "./assets/onlyfans.png",
     },
     {
-      name: "Snapchat",
-      link: "https://onlyfans.com/nadiajayne",
-      image: "./assets/snapchat.png",
+      name: "Spoil Me here!",
+      link: "https://youpay.me/Nadia/wishlist/spoil-me",
+      image: "./assets/youpay.png",
       },
     {
       name: "Twitter",

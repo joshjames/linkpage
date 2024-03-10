@@ -98,8 +98,8 @@ a {
 .link:nth-child(3) {
   background: linear-gradient(
       90deg,
-      rgb(197 197 241) 30%,
-      rgb(24 63 235 / 30%) 100%
+      rgb(201 209 255 / 72%) 30%,
+      rgb(129 164 206 / 93%) 100%
     ),
     #ffffff;
     color: white;
@@ -107,37 +107,37 @@ a {
 .link:nth-child(4) {
   background: linear-gradient(
       90deg,
-      rgb(123 119 225 / 31%) 30%,
-      rgb(10 60 200 / 30%) 100%
+      rgb(201 209 255 / 72%) 30%,
+      rgb(129 164 206 / 93%) 100%
     ),
-    #f8f8f8;
+    #ffffff;
     color: white;
 }
 .link:nth-child(5) {
   background: linear-gradient(
-      90deg,
-      rgb(241 241 241 / 10%) 30%,
-      rgb(149 157 255 / 30%) 100%
-    ),
-    #aba6d8;
-    color: white;
+    90deg,
+    rgb(201 209 255 / 72%) 30%,
+    rgb(129 164 206 / 93%) 100%
+  ),
+  #ffffff;
+  color: white;
 }
 .link:nth-child(6) {
   background: linear-gradient(
-      90deg,
-      rgba(241, 241, 241, 0.1) 30%,
-      rgba(113, 113, 113, 0.3) 100%
-    ),
-    #403b6c;
+    90deg,
+    rgb(201 209 255 / 72%) 30%,
+    rgb(129 164 206 / 93%) 100%
+  ),
+  #ffffff;
   color: white;
 }
 .link:nth-child(7) {
   background: linear-gradient(
-      90deg,
-      rgba(241, 241, 241, 0.1) 30%,
-      rgba(164, 164, 255, 0.437) 100%
-    ),
-    #211d38;
+    90deg,
+    rgb(201 209 255 / 72%) 30%,
+    rgb(129 164 206 / 93%) 100%
+  ),
+  #ffffff;
   color: white;
 }
 .link:hover {

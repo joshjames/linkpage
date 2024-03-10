@@ -4,7 +4,7 @@
     "folder": "",
     "include": [],
     "exclude": [
-        ".git"
+        "/.git/*"
     ],
     "synced": [
         {
@@ -143,11 +143,6 @@
             "remoteTime": 1704004252
         },
         {
-            "localTime": 1704006239,
-            "name": ".git/ORIG_HEAD",
-            "remoteTime": 1704017402
-        },
-        {
             "localTime": 1704006230,
             "name": ".git/objects/13/9cad69a34ad08aa9c4e7002728cbe270dc5d1e",
             "remoteTime": 1704017404
@@ -178,19 +173,9 @@
             "remoteTime": 1704017407
         },
         {
-            "localTime": 1704006244,
-            "name": ".git/logs/refs/remotes/origin/main",
-            "remoteTime": 1704017413
-        },
-        {
             "localTime": 1704006230,
             "name": ".git/objects/1d/521094261a269103d1f1a4eeda1da3219bd9e8",
             "remoteTime": 1704017414
-        },
-        {
-            "localTime": 1704006244,
-            "name": ".git/refs/remotes/origin/main",
-            "remoteTime": 1704017416
         },
         {
             "localTime": 1704946737,
@@ -299,11 +284,6 @@
         },
         {
             "localTime": 1704946737,
-            "name": ".git/COMMIT_EDITMSG",
-            "remoteTime": 1704947371
-        },
-        {
-            "localTime": 1704946737,
             "name": ".git/objects/0c/d96e22a90b210a760755e9500b3a99c4c6e176",
             "remoteTime": 1704947372
         },
@@ -328,11 +308,6 @@
             "remoteTime": 1704947373
         },
         {
-            "localTime": 1704947226,
-            "name": ".git/FETCH_HEAD",
-            "remoteTime": 1704947373
-        },
-        {
             "localTime": 1704946737,
             "name": ".git/objects/98/ed6bb9c79657ec58d0e245503f1b25fe792888",
             "remoteTime": 1704947373
@@ -351,6 +326,86 @@
             "localTime": 1704946737,
             "name": ".git/objects/2a/d217200257df0b7e8259cd18f2d3346c6ffe0d",
             "remoteTime": 1704947374
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/2b/a986f6f136f061ad7c345c47245788068e9218",
+            "remoteTime": 1704949468
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/8d/bee15d70d036daebab69517296a9fd4c750be6",
+            "remoteTime": 1704949468
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/4b/01b0bff3f604089b637ebd4a3614d69a6b840c",
+            "remoteTime": 1704949468
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/48/7a5ce9faf09166e75150e45541d4f8ac79ccb6",
+            "remoteTime": 1704949468
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/be/b4f1513aadb8eb86d62b44946664e4458722f3",
+            "remoteTime": 1704949469
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/78/db7800f3491757eec719c088a674f06971aa80",
+            "remoteTime": 1704949468
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/d7/b8c4e0e95eebc664e97bb4d78ca3e0e84f727a",
+            "remoteTime": 1704949469
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/95/e73a02a172640a6b723a53fedf999ca1814966",
+            "remoteTime": 1704949469
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/6b/cb14981ba54c337b019622beabdc2990d52b1f",
+            "remoteTime": 1704949468
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/51/f623b53404a94bda6a4e1af5dda940d059c490",
+            "remoteTime": 1704949469
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/objects/5c/5cf603f46a882e41f658f4d20f1d89fd4ada01",
+            "remoteTime": 1704949469
+        },
+        {
+            "localTime": 1704949356,
+            "name": ".git/ORIG_HEAD",
+            "remoteTime": 1704949476
+        },
+        {
+            "localTime": 1704949346,
+            "name": ".git/COMMIT_EDITMSG",
+            "remoteTime": 1704949476
+        },
+        {
+            "localTime": 1704949359,
+            "name": ".git/logs/refs/remotes/origin/main",
+            "remoteTime": 1704949476
+        },
+        {
+            "localTime": 1704949355,
+            "name": ".git/FETCH_HEAD",
+            "remoteTime": 1704949476
+        },
+        {
+            "localTime": 1704949359,
+            "name": ".git/refs/remotes/origin/main",
+            "remoteTime": 1704949477
         }
     ]
 }
